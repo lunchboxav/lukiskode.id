@@ -23,8 +23,8 @@ export default function Home() {
 
         <p className={styles.description}>
           Kelas pertama kami,{" "}
-          <Link href="https://react-untuk-designer.ck.page/00692ac9a5">
-            <a>React untuk Designer</a>
+          <Link href="#">
+            <a>CSS untuk Designer</a>
           </Link>
           , akan segera dibuka!
         </p>
@@ -36,7 +36,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          &#169; Adityo Pratomo 2020 🇮🇩
+          &#169; Adityo Pratomo 2021 🇮🇩
         </a>
       </footer>
     </div>
