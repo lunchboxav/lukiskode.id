@@ -16,7 +16,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("../public/blob-background.svg");
+  background-image: url("../public/blob-trans.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
