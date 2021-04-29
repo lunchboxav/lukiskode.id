@@ -23,7 +23,7 @@ export default function Home() {
 
         <p className={styles.description}>
           Kelas pertama kami,{" "}
-          <Link href="#">
+          <Link href="https://lukis-kode.ck.page/css-untuk-designer">
             <a>CSS untuk Designer</a>
           </Link>
           , akan segera dibuka!
